@@ -1,2 +1,2 @@
 # example repository
-+ I am learining how to use git
++ I am learning git today
